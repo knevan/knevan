@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/matplotlib-%23e69f00.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-%23e69f00.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </p>
 
 <br>
