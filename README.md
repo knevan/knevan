@@ -11,13 +11,14 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,py,mysql,sklearn,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github,py,sklearn,postgres,git,rust" />
     <br/>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/matplotlib-%23e69f00.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-%23e69f00.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </p>
 
 <br>
