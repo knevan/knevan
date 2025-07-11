@@ -27,6 +27,6 @@
 <p align="center">
     <img alt="knevan's Github Stats" width=300 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=knevan&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevan&count_private=true&theme=dark&layout=compact"/>
-    <img width=300 alt="knevan's Github contribution stats" height=50% src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
+    <img width=300 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
     <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>-->
 </p>
