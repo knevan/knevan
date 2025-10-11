@@ -25,8 +25,8 @@
 </h2>
 
 <p align="center">
-    <img alt="knevan's Github Stats" width=275 height=200 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=knevan&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
-    <img width=275 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevan&theme=dark&layout=compact"/>
+    <img alt="knevan's Github Stats" width=300 height=300 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=knevan&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
+    <img width=275 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevan&theme=dark&layout=compact"/>
     <img width=275 height=200 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
     <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>-->
 </p>
