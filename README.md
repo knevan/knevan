@@ -30,3 +30,6 @@
     <img width=275 height=200 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
     <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>-->
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
