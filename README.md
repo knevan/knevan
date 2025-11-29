@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 128 hrs 38 mins
+Total Time: 134 hrs 6 mins
 
-Rust             68 hrs 7 mins   █████████████▒░░░░░░░░░░░   52.95 %
-Svelte           48 hrs 9 mins   █████████▒░░░░░░░░░░░░░░░   37.44 %
-SQL              3 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-TypeScript       2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-TOML             2 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-JavaScript       46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-YAML             39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Rust             71 hrs 43 mins  █████████████▒░░░░░░░░░░░   53.48 %
+Svelte           49 hrs 51 mins  █████████▒░░░░░░░░░░░░░░░   37.18 %
+SQL              3 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript       2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TOML             2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JavaScript       46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
