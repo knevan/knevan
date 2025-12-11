@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 170 hrs 39 mins
+Total Time: 172 hrs 32 mins
 
-Rust                  85 hrs 47 mins  ████████████▓░░░░░░░░░░░░   50.27 %
-Svelte                58 hrs 53 mins  ████████▓░░░░░░░░░░░░░░░░   34.51 %
-Docker                5 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-SQL                   4 hrs 41 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-TOML                  3 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-TypeScript            3 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Text                  1 hr 51 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Rust                  87 hrs 40 mins  ████████████▓░░░░░░░░░░░░   50.81 %
+Svelte                58 hrs 53 mins  ████████▓░░░░░░░░░░░░░░░░   34.14 %
+Docker                5 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+SQL                   4 hrs 41 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+TOML                  3 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TypeScript            3 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Text                  1 hr 51 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
