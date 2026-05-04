@@ -3,8 +3,8 @@
 </p> -->
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="36px" height="36px" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&animate=true&vCenter=true&width=175&height=40&duration=4000&lines=Hi!;">
+  <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="36px" height="36px" />-->
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&animate=true&vCenter=true&width=175&height=40&duration=4000&lines=Hi!;">
 </h1>
 
 <h2 align="center"> 
