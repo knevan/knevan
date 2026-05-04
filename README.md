@@ -23,7 +23,7 @@
 </h2>
 
 <p align="center">
-    <img alt="knevan's Github Stats" width=280 height=250 src="https://github-stats-extended.vercel.app/api?username=knevan&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=codeSTACKr&show=prs_merged,prs_merged_percentage&hide=stars" />
+    <img alt="Stats" width=300 height=300 src="https://github-stats-extended.vercel.app/api?username=knevan&custom_title=Stats&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=codeSTACKr&show=prs_merged,prs_merged_percentage&hide=stars" />
     <img width=275 height=250 src="https://github-stats-extended.vercel.app/api/top-langs?username=knevan&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
     <img width=275 height=200 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
     <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>-->
