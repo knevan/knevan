@@ -11,13 +11,11 @@
 </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,py,sklearn,postgres,git,rust" />
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,golang,elixir,cs,typescript,sqlite,mysql,postgresql,git,cloudflare&perline=5" />
+    </a>
     <br/>
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/matplotlib-%23e69f00.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
-    <img src="https://img.shields.io/badge/Seaborn-%23e69f00.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+    <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />
 </p>
 
 <h2 align="center"> 
@@ -26,7 +24,7 @@
 
 <p align="center">
     <img alt="knevan's Github Stats" width=280 height=250 src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=knevan&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&hide_border=true&rank_icon=github"/>
-    <img width=275 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevan&theme=dark&layout=compact"/>
+    <img width=275 height=250 src="https://github-stats-extended.vercel.app/api/top-langs?username=knevan&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
     <img width=275 height=200 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
     <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>-->
 </p>
