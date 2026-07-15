@@ -12,7 +12,7 @@
 </h2>
 <p align="center">
     <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,golang,elixir,cs,typescript,svelte,vue,sqlite,mysql,nginx,caddy,postgresql,git,docker,cloudflare,graphql&perline=8" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,golang,elixir,cs,typescript,ocaml,svelte,vue,sqlite,mysql,postgresql,surrealdb,nginx,caddy,git,docker,graphql&perline=8" />
     </a>
     <br/>
     <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />
