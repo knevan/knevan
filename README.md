@@ -32,15 +32,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 445 hrs 36 mins
+Total Time: 448 hrs 6 mins
 
-Rust                  180 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.17 %
-Svelte                93 hrs 53 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-TypeScript            58 hrs 56 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Elixir                29 hrs 32 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Markdown              20 hrs 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-TOML                  12 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Vue                   8 hrs 29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Rust                  180 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.95 %
+Svelte                93 hrs 53 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+TypeScript            59 hrs 3 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Elixir                29 hrs 32 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Markdown              22 hrs 35 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+TOML                  12 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Vue                   8 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
