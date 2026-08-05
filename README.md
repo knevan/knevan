@@ -23,10 +23,14 @@
   Github Stats 
 </h2>
 <p align="center">
-    <img width=275 src="https://github-stats-extended.vercel.app/api/top-langs?username=knevan&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
-    <img width=275 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>
-    <img alt="Stats" width-275 src="https://github-stats-extended.vercel.app/api?username=knevan&custom_title=Stats&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=codeSTACKr&show=prs_merged,prs_merged_percentage&hide=stars" /> 
-    <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>-->
+    <!-- https://github.com/stats-organization/github-stats-extended -->
+    <img width=275 src="https://github-stats-extended.vercel.app/api/top-langs?username=knevan&layout=compact&langs_count=6&theme=catppuccin_mocha"/> 
+    <img alt="Stats Card" height=151.25 src="https://github-stats-extended.vercel.app/api?username=knevan&custom_title=Stats%20Card&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&hide=stars,issues" /> 
+    <!-- https://ghstats.dev/ -->
+    <img alt="GitHub Stats Card" src="https://ghstats.dev/api/card?username=knevan&alltime=true&hide_title=true&theme=ayu&size=compact&hide=stars%2Cfollowers%2Crepos%2Cactive_day%2Cgrade%2Cavg%2Cissues%2Ctrend&order=commits%2Cstreak%2Cprs%2Cweek%2Ccontributions%2Chours"/>
+    <!-- https://ghstats.dev/ <img height=151 src="https://ghstats.dev/api/langs?username=knevan&theme=ayu&max_langs=6&layout=grid"> -->
+    <!--<img width=300 alt="knevan's Github streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=dark&border_radius=10"/>
+    <!--<img width=275 alt="knevan's Github contribution stats" src="https://github-contribution-stats.vercel.app/api/?username=knevan"/>-->
 </p>
 
 <!--START_SECTION:waka-->
